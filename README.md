@@ -13,6 +13,8 @@ pip install -r requirements.txt
 python source.py
 # EXE
 https://www.mediafire.com/file/qkpawtsh8ov9faw/Block_Switcher.exe/file
+#IMPORTANT
+The script is not made to bypass a screen share, if you use this you have the possibility of being banned and we are not responsible, any questions to the discord
 ## Follow on:
 <p align="left">
 <a href="https://github.com/ilsiuk"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
