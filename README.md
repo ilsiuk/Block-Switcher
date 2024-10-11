@@ -1,2 +1,2 @@
 # Block-Switcher
-Simple
+Macro for Minecraft UHC or Kitmap that changes your armor automatically.
