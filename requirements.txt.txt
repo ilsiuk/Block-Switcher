@@ -1,5 +1,1 @@
-colorama
-pyautogui
-pynput
-mouse
-keyboard
+
