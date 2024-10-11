@@ -9,4 +9,3 @@ pip install -r requirements.txt
 python source.py
 # EXE
 https://www.mediafire.com/file/qkpawtsh8ov9faw/Block_Switcher.exe/file
-https://github.com/ilsiuk
